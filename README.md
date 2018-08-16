@@ -1,3 +1,3 @@
 # hello_world
-My repository
-I adore learning difficult things and achieving goals
+
+I adore learning programming and achieving goals
